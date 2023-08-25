@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Izzat Mammadov</h1>
 <h3 align="center">I'm on a mission to master the art of crafting beautiful and user-friendly web experiences. I've got a deep passion for front-end development and a burning curiosity for all things related to web technologies.</h3>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"><img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="max-width: 100%;"></a></p>
+
 - 🧠 I'm currently focused on mastering **HTML, CSS, JavaScript and React to create stunning and responsive user interfaces.**
 
 - 💡 Exploring the magic of **JS frameworks and libraries to style my projects efficiently.**
