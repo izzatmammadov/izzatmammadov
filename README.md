@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Izzet Memmedov</h1>
+<h1 align="center">Hi 👋, I'm Izzat Mammadov</h1>
 <h3 align="center">I'm on a mission to master the art of crafting beautiful and user-friendly web experiences. I've got a deep passion for front-end development and a burning curiosity for all things related to web technologies.</h3>
 
 - 🧠 I'm currently focused on mastering **HTML, CSS, JavaScript and React to create stunning and responsive user interfaces.**
